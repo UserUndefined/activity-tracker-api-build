@@ -1,0 +1,15 @@
+{
+  "name": "activity-tracker-api",
+  "description": "Interface for the Activity Tracker front end application",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "4.9.1",
+    "require-directory": "1.2.0"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engine": "node 0.10.24"
+}
